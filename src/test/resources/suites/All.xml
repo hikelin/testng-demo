@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All" verbose="1">
+    <test name="All case suite">
+        <classes>
+            <class name="com.github.hikelin.testng.cases.JdbcDataDrivenTest"/>
+        </classes>
+    </test>
+</suite>

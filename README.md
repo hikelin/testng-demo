@@ -2,5 +2,5 @@
 
 ## HOW TO RUN
 ```
-mvn test
+gradle test
 ```

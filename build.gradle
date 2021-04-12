@@ -29,7 +29,7 @@ dependencies {
 	testImplementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.4'
 	testImplementation 'com.fasterxml.jackson.core:jackson-databind:2.12.2'
 
-	testImplementation 'org.springframework:spring-web:5.3.5'
+	testImplementation 'org.springframework:spring-jdbc:5.3.5'
 	testImplementation 'org.apache.httpcomponents:httpclient:4.5.13'
 
 	// jdbc
